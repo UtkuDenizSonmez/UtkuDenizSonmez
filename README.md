@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
-<h3 align="center">Developer/Student in Suleyman Demirel University</h3>
+<h3 align="center">Developer/Student in Suleyman Demirel University/Lubnin University of Technology </h3>
 
 - 🔭 I’m currently working on **Full-Stack Projects**
 
