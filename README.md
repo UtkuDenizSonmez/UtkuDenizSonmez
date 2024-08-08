@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
-<h3 align="center">Developer/Student in Suleyman Demirel University/Lubnin University of Technology </h3>
+<h3 align="center">Computer Engineer </h3>
 
-- 🔭 I’m currently working on **Full-Stack Projects**
+- 🌱 I’m currently learning **Data Science**
 
-- 🌱 I’m currently learning **react.js**
-
-- 🤝 I’m looking for help with **Front-end, Back-end**
+- 🤝 I’m looking for help with **Data Science & AI**
 
 - 📫 How to reach me **utkudenizsonmez@gmail.com**
 
